@@ -5,3 +5,5 @@ Some demo text ...
 
 Lokaler Merge
 New remote change
+
+Lokale Änderung
